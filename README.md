@@ -12,6 +12,11 @@ A **Web Developer** passionate about creating innovative digital solutions. Proa
 - **Version Control:** Git
 - **Soft Skills:** Hardworking, Diligence, Problem-Solving
 
+## I’m interested in ...
+- Developing cutting-edge web applications and exploring the latest technologies.
+- Solving challenging problems and learning from real-world experiences.
+- Exploring opportunities to work with forward-thinking startups.
+
 ## 🎓 Education
 ### Bachelor of Technology: Computer Science (2024)
 **Guru Gobind Singh Indraprastha University, Greater Noida**  
