@@ -29,7 +29,7 @@ A **Web Developer** passionate about creating innovative digital solutions. Proa
 ## 📬 Connect With Me
 If you'd like to discuss projects or opportunities, feel free to reach out to me:
 - Email: [shashanksharma261m@gmail.com](mailto:shashanksharma261m@gmail.com)
-- LinkedIn: [Shashank Sharma](https://www.linkedin.com/in/shashanksharma)
+- LinkedIn: [Shashank Sharma](https://www.linkedin.com/in/shashank-sharma-2a329a210)
 
 Let's connect and solve problems together! 🚀
 
